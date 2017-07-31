@@ -1,0 +1,285 @@
+#center1
+{
+    width:1000px;
+    height:1050px;
+    background-color: pink;
+    margin:-7px auto;
+}
+.center1-1
+{
+    width:325px;
+    height:1050px;
+    background-color:yellow;
+}
+.center1-1a
+{
+    width:420px;
+    font-size: 15px;
+    font-weight:bold;
+    margin: 10px 10px;
+}
+.center1-1a p
+{
+    font-size: 2px;
+    margin: -15px 133px;
+    padding-left: 10px;
+    width: 170px;
+}
+.center1-1a img
+{
+   margin-top: 25px;
+}
+.center1-1b img
+{
+   margin-left:9px;
+}
+.center1-1b p
+{
+    margin:-29px 45px;
+}
+.center1-1b a:hover p
+{
+    color:white;
+}
+.center1-1b ul
+{
+    width: 200px;
+    height: 50px;
+    margin: 42px 71px;
+}
+.center1-1b ul li
+{
+    height:25px;
+    font-size: 13px;
+}
+.center1-1b ul li:hover
+{
+    color:red;
+}
+.center1-1c
+{
+    margin-top:130px;
+}
+.center1-ul1
+{
+    width:291px;
+    margin:0px 0px
+}
+.center1-ul1 li
+{
+   height:55px;
+   margin-top:-10px;
+}
+.center1-ul1 li img
+{
+    margin:2px 10px;
+}
+.center1-ul2
+{
+    width:291px;
+    margin:-190px 27px
+}
+.center1-ul2 li
+{
+   height:55px;
+   margin-top:-10px;
+}
+.center1-ul2 li p
+{
+    margin:-31px 20px;
+    font-size: 13px;
+}
+.center1-ul2 li:hover
+{
+    color:white;
+}
+.center1-ul2 li img
+{
+    margin:2px 10px;
+}
+.center1-1d
+{
+    width:290px;
+    height:150px;
+    background:url(../img/t4.gif) no-repeat;
+    margin:207px 10px;
+}
+.center1-1d-1 ul
+{
+    width:290px;
+    padding-top:60px;
+}
+.center1-1d-1 ul li
+{
+    height: 45px;
+    widsth:141px;
+}
+.center1-1d-1 ul li p
+{
+    font-size:15px;
+    height:40px;
+    border-bottom:1px dashed gray;
+}
+.center1-1d-1 ul li:hover
+{
+    color:red;
+}
+.center1-1e
+{
+    width:291px;
+    height:40px;
+    background: url(../img/t6.gif) no-repeat;
+    margin:-92px 10px;
+}
+.center1-1e-ul1
+{
+    width:291px;
+    padding-top:50px;
+}
+.center1-1e-ul1 li
+{
+    width:141px;
+    height:71px;
+    background:url(../img/libg14.gif) no-repeat;
+    margin:0 152px;
+    background-position: 0 -71px;
+}
+.center1-1e-ul1 li:hover
+{
+    color:red;
+    background-position:0 0px;
+}
+.center1-1e-ul1 li:hover div
+{
+    background-position:0 -24px;
+}
+.center1-1e-ul1 li:hover .p2, .span1
+{
+    color:#DBDBDB;
+}
+.center1-1e-ul1 li:hover .p3, .span2
+{
+    color:#DBDBDB;
+}
+.center1-1e-ul1 li:hover .p5, .span3
+{
+    color:#DBDBDB;
+}
+.center1-1e-ul1 li:hover .p1
+{
+    color:red;
+}
+.center1-1e-ul1 li:hover .p4
+{
+    color:red;
+}
+.center1-1e-ul1 li:hover .p6
+{
+    color:red;
+}
+.p1
+{
+    margin:-14px -153px;
+    font-size:13px;
+    color:#DBDBDB;
+}
+.p2
+{
+    margin: -37px -2px;
+    font-size: 13px;
+    color:#DBDBDB;
+}
+.p3
+{
+    margin:-14px 1px;
+    font-size:13px;
+    color:#DBDBDB;
+}
+.p4
+{
+    margin:-14px -153px;
+    font-size:13px;
+    color:#DBDBDB;
+}
+.p5
+{
+    margin:-14px 1px;
+    font-size:13px;
+    color:#DBDBDB;
+}
+.p6
+{
+    margin:-14px -153px;
+    font-size:13px;
+    color:#DBDBDB;
+}
+.span1
+{
+    display: block;
+    margin: 37px 22px;
+    font-weight: bold;
+    font-size: 22px
+}
+.span2
+{
+    display: block;
+    margin: 16px 22px;
+    font-weight: bold;
+    font-size: 22px
+}
+.span3
+{
+    display: block;
+    margin: 16px 22px;
+    font-weight: bold;
+    font-size: 22px
+}
+.center1-1e-ul1 div
+{
+    width:12px;
+    height:24px;
+    background:url(../img/libg8.gif) no-repeat;
+    margin:0px -12px;
+}
+.center1-2
+{
+    width: 675px;
+    height: 1050px;
+    background-color: green;
+    margin: -1050px 325px;
+}
+.center1-2-1 img
+{
+    margin-top:10px;
+}
+.center1-2-ul
+{
+    width:675px;
+}
+.center1-2-ul li
+{
+    float: left;
+    width: 319px;
+    height: 322px;
+    margin: 2px 9px;
+    background: url(../img/product_04.png) no-repeat;
+}
+.center1-2-ul li div
+{
+    width: 319px;
+    height: 32px;
+    background-color: gray;
+    margin-top: 256px;
+}
+.center1-2-ul li p
+{
+    margin: -26px 11px;
+}
+.center1-2-ul li:hover div
+{
+    background-color: #FFD100;
+}
+.center1-2-ul li:hover p
+{
+    color: red;
+}

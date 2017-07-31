@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border:0;
+}
+ol, ul ,li{list-style: none;}
+#TOP{
+    width:100%;
+    height:200px;
+    min-width: 1000px;
+    background:url(../img/index3_02.png)repeat;
+    margin:0 auto;
+}
+.top-cen{
+    width:1000px;
+    height:182px;
+    margin:0 auto;
+    background-image: url(../img/bg1_02.png);
+}
+.top-ul{
+    margin-left: 58px;
+    overflow: hidden;
+
+}
+.top-ul li {
+   float: left;
+   width:100px;
+   text-align: right;
+}
+a
+{
+    text-decoration: none;
+    color:black;
+}
+.top-ul li a p
+{
+    color:#B4B4B4;
+    margin-top: 1px;
+}
+.top-ul li:hover a
+{
+    color:red;
+}
+.top-ul li:hover a p
+{
+    color:black;
+}
+#banner
+{
+     width:100%;
+     height:525px;
+     min-width:1000px;
+     background: url(../img/banner.jpg)repeat-x;
+     background-position: center;
+     position: relative;
+     margin-top:-16px;
+}
+#banner>a
+{
+    display:block;
+    width:100%;
+    height:100%;
+}
+.banner-ul
+{
+    width:1000px;
+    height:34px;
+   position:absolute;
+   bottom:0;
+   left:50%;
+   margin-left: -500px;
+   margin-bottom: 0px;
+}
+.banner-ul li
+{
+    float:left;
+    width:205px;
+    height:34px;
+    background:#000;
+    margin-left:9px;
+    line-height:34px;
+    padding-left: 10px;
+    color:white;
+}
+.banner-ul li:hover
+{
+    background-color: red;
+}
+#left,#right
+{
+    width:37px;
+    height:34px;
+    background:url(../img/arr.png);
+    background-repeat: no-repeat;
+}
+#left
+{
+    margin-left:0;
+}
+#right
+{
+    background-position:-57px 0;
+}
+#left:hover
+{
+    background-position:0 -34px;
+}
+#right:hover
+{
+    background-position:-57px -34px;
+}
+#banner-1
+{
+    width:999px;
+    height:97px;
+    margin:0 auto;
+    background-color:pink;
+    margin-top:2px;
+}
+#banner-1>div
+{
+      height:97px;
+      display:block;
+      float:left;
+}
+.ba-1
+{
+    width:260px;
+    background:url(../img/banner_1.png) no-repeat;
+}
+.ba-2
+{
+    width:190px;
+    background:url(../img/banner_2.png) no-repeat;
+}
+.ba-3
+{
+    width:185px;
+    background:url(../img/banner_3.png) no-repeat;
+}
+.ba-4
+{
+    width:364px;
+    background:url(../img/banner_4.png) no-repeat;
+}
+/*底部内容*/
+#bottom
+{
+    width:100%;
+    height:550px;
+    min-width:1000px;
+    background-color:#2e2e2e;
+    margin:25px auto;
+}
+.bottom1
+{
+    width:1000px;
+    height:300px;
+    margin:auto;
+}
+.bottom1-1
+{
+    width:300px;
+    height:240px;
+    background:url(../img/bottom.gif) no-repeat;
+    position:relative;
+}
+.bottom1-1 p
+{
+    position: absolute;
+    bottom: 80px;
+    left: 125px;
+    font-size: 12px;
+    color:#979797;
+}
+.bottom1-1 span
+{
+    position: absolute;
+    bottom: 41px;
+    left: 125px;
+    font-size: 12px;
+    color:#979797;
+}
+.bottom1-2
+{
+    float: right;
+    width: 700px;
+    height: 300px;
+    margin: -240px 0;
+
+}
+.bottom1-2>div>p
+{
+    font-size: 13px;
+    width: 124px;
+    height: 10px;
+    line-height: 14px;
+    padding: 6px;
+    font-weight: bold;
+    color: white;
+    background: black;
+    margin-top: 2px;
+}
+.bottom1-2>div
+{
+    width: 140px;
+    float: left;
+    margin: 10px 10px 0 25px;
+}
+.bottom1-2>div ul li
+{
+    list-style-type: disc;
+    list-style-position: inside;
+    width:126px;
+    height: 16px;
+    line-height: 20px;
+    color: #969696;
+    margin-top: 2px;
+    padding: 4px;
+}
+.bottom1-2>div ul li a
+{
+    font-size:12px;
+    color: #969696;
+}
+.bottom1-2>div ul li:hover,.bottom1-2>div:hover p
+{
+    background-color:#676767;
+}
+.bottom1-3
+{
+    width:100%;
+    height:112px;
+    background:url(../img/ad.png) no-repeat;
+    background-color:#343434;
+}
+.bottom1-4
+{
+    width: 100%;
+    background-color: #1f1f1f;
+}
+.bottom1-4>div
+{
+    width:1000px;
+    height:80px;
+    margin:0 auto;
+    padding-top:18px;
+}
+.bottom1-4 p
+{
+    color:#808080;
+}
+.bottom1-5
+{
+    width: 100%;
+    background-color:black;
+}
+.bottom1-5 p
+{
+    padding-top: 18px;
+    padding-left: 73px;
+    padding-bottom: 33px;
+    color:white;
+}
